@@ -6,7 +6,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'kalix-header.js',
+    filename: 'index.js',
     library: 'KalixHeader',
     libraryTarget: 'umd',
     umdNamedDefine: true

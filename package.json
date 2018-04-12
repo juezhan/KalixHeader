@@ -1,7 +1,7 @@
 {
-  "name": "kalixheader",
+  "name": "kalix-header",
   "description": "A Vue component to kalix-header",
-  "version": "1.0.0",
+  "version": "1.2.19",
   "author": "juezhan <11991762@qq.com>",
   "private": false,
   "license": "MIT",
